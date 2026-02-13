@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sarkor",
+        "description": "Connect to Sarkor cabinet and expose account sensors.",
+        "data": {
+          "username": "Login",
+          "password": "Password",
+          "update_interval_hours": "Update interval (hours)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "unknown": "Unexpected error"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Sarkor",
+        "description": "Configure update interval.",
+        "data": {
+          "update_interval_hours": "Update interval (hours)"
+        }
+      }
+    }
+  }
+}

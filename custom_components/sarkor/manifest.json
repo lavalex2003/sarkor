@@ -1,0 +1,13 @@
+{
+  "domain": "sarkor",
+  "name": "sarkor.uz",
+  "codeowners": [
+    "@lavalex2003"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/lavalex2003/sarkor",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/lavalex2003/sarkor/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

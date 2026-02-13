@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sarkor",
+        "description": "Sarkor shaxsiy kabinetiga ulanish va sensorlarni yaratish.",
+        "data": {
+          "username": "Login",
+          "password": "Parol",
+          "update_interval_hours": "Yangilash oralig'i (soat)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Ulanib bo'lmadi",
+      "unknown": "Noma'lum xatolik"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Sarkor",
+        "description": "Yangilash oralig'ini sozlash.",
+        "data": {
+          "update_interval_hours": "Yangilash oralig'i (soat)"
+        }
+      }
+    }
+  }
+}
+

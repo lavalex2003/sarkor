@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sarkor",
+        "description": "Подключение к личному кабинету Sarkor и создание сенсоров.",
+        "data": {
+          "username": "Логин",
+          "password": "Пароль",
+          "update_interval_hours": "Интервал обновления (часы)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Не удалось подключиться",
+      "unknown": "Неизвестная ошибка"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Sarkor",
+        "description": "Настройка интервала обновления.",
+        "data": {
+          "update_interval_hours": "Интервал обновления (часы)"
+        }
+      }
+    }
+  }
+}
